@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+	<Dev SrNo="ABCD1234WXYX002">
+		<Address>192.168.121.101</Address>
+		<DevName>Bizuc2</DevName>
+		<ModelName>Poseido</ModelName>
+		<Type>A4</Type>
+		<CommSetting>
+			<PortNo>161</PortNo>
+			<UseSSL>false</UseSSL>
+			<Password>ouUsippetc8S4RyxzIji</Password>
+		</CommSetting>
+	</Dev>
+	
+</Devices>
+
+
+
+
+
+
+
+
